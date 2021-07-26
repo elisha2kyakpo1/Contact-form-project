@@ -100,6 +100,76 @@ main {
   display: flex;
 }
 
+.uname,
+.email,
+.text-area {
+  outline: none;
+  border: none;
+  border-radius: 8px;
+}
+
+.text-area {
+  padding-left: 10px;
+  padding-top: 12px;
+  font-size: 1.5rem;
+}
+
+.sub {
+  color: #ff6b00;
+  font-size: 1.5rem;
+  padding: 12px 5px;
+  font-weight: 600;
+  max-width: 40%;
+  border-radius: 8px;
+}
+
+.fheading {
+  margin: 0 auto;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  color: #fff;
+}
+
+.para {
+  font-size: 1.8rem;
+}
+
+.contact-me {
+  font-weight: 600;
+  font-size: 3rem;
+}
+
+.uname,
+.email {
+  padding: 12px 8px;
+  font-size: 18px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1c1a19;
+}
+
+.footer-div {
+  margin-bottom: 160px;
+  padding: 4rem 2.5rem;
+  min-width: 40%;
+  max-width: 40%;
+  border-radius: 100px 0 0 0;
+  background-color: #ff6b00;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
 .social-link {
   padding: 5px;
   background-color: transparent;
