@@ -137,41 +137,6 @@ main {
   background-color: #fff;
 }
 
-.circle-sub {
-  align-items: center;
-}
-
-.para {
-  font-size: 1.8rem;
-}
-
-.contact-me {
-  font-weight: 600;
-  font-size: 3rem;
-}
-
-.uname,
-.email {
-  padding: 12px 8px;
-  font-size: 18px;
-}
-
-.footer {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background-color: #1c1a19;
-}
-
-.footer-div {
-  margin-bottom: 160px;
-  padding: 4rem 2.5rem;
-  min-width: 40%;
-  max-width: 40%;
-  border-radius: 100px 0 0 0;
-  background-color: #ff6b00;
-}
-
 .form {
   display: flex;
   flex-direction: column;
