@@ -163,6 +163,15 @@ main {
   background-color: #1c1a19;
 }
 
+.footer-div {
+  margin-bottom: 160px;
+  padding: 4rem 2.5rem;
+  min-width: 40%;
+  max-width: 40%;
+  border-radius: 100px 0 0 0;
+  background-color: #ff6b00;
+}
+
 .form {
   display: flex;
   flex-direction: column;
