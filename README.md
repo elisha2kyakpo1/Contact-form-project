@@ -1,12 +1,34 @@
-# curriculum-cr-training-contact-form
 # __Hi there 👋:heart: !__
 
 ## Portfolio Project
+
+## curriculum-cr-training-contact-form
 
 ## About
 
 This is my personal website showcasing my work as a software developer. In this portifolio, you will see projects I have worked on and skills I have acquired.
 
+## Getting Started
+
+## Setup
+
+To get started, you should first get this file in your local machine by cloning or forking this project or typing in your terminal
+
+```
+  git clone https://github.com/elisha2kyakpo1/Contact-form-project/
+
+  cd Contact-form-project
+
+  git checkout -b your-branch-name`
+```
+
+Make your contributions
+
+Push your branch up to your forked repository
+
+Open a Pull Request with a detailed description to the development branch of the original project for a review
+
+---
  Built With
 
 1. HTML/CSS
